@@ -10,6 +10,8 @@ namespace GitTraining
     {
         static void Main(string[] args)
         {
+            // test file Michal
+            string aName = "Michal";
         }
     }
 }
