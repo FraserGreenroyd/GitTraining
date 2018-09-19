@@ -10,6 +10,11 @@ namespace GitTraining
     {
         static void Main(string[] args)
         {
+            String myName = "Maria";
+            Console.WriteLine("Hello " + myName + " How are you?");
+
+
+            Console.ReadKey();
         }
     }
 }
