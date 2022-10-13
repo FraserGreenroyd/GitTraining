@@ -2,3 +2,4 @@
 A repo for training people in git workings
 
 Hello World! -- from Travis 
+We are all doomed!
