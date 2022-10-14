@@ -1,6 +1,8 @@
 # GitTraining
 A repo for training people in git workings
 
-Hello World! -- from Travis
+Hello World! -- from Travis 
+
+Hello Travis
 
 Dzien dobry
