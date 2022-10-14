@@ -5,3 +5,6 @@ Hello World! -- from Travis
 
 Hello!
 
+Hello Travis
+
+Dzien dobry
