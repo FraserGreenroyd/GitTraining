@@ -11,4 +11,4 @@ Dzien dobry
 
 Hallå där kött och blåbär
 
-Jag alskar kött och blåbär
+Godmorgon!
