@@ -9,4 +9,4 @@ Hello Travis
 
 Dzien dobry
 
-Welcome
+Welcome - new commit
